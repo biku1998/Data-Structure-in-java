@@ -1,4 +1,8 @@
 
+/*
+Implementation of doubly linked list in java with generics , to store any type of data
+author : Sourabh kumar.
+*/
 public class DbList<T> {
 	T data;
 	DbList<T> next;
